@@ -19,4 +19,4 @@ https://youtu.be/TVOD3mfgsqc
 
 🔗 Link da Demo da Página:
 
-https://github.com/sardinh4/Fresh-organic
+https://sardinh4.github.io/Fresh-organic/
